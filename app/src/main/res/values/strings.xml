@@ -1,19 +1,31 @@
 <resources>
     <string name="app_name">AishengMarket</string>
 
-    <!-- Strings related to login -->
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password (optional)</string>
-    <string name="action_sign_in">Sign in or register</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="error_invalid_email">This email address is invalid</string>
-    <string name="error_invalid_password">This password is too short</string>
-    <string name="error_incorrect_password">This password is incorrect</string>
-    <string name="error_field_required">This field is required</string>
-    <string name="permission_rationale">"Contacts permissions are needed for providing email
-        completions."
-    </string>
-    <string name="title_activity_splash">SplashActivity</string>
-    <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
+    <!-- login  register-->
+    <!--common-->
+    <string name="login_in">登录</string>
+    <string name="register">注册</string>
+    <string name="userName">用户名</string>
+    <string name="Name">姓名</string>
+    <string name="userName_phone">账号/手机号码</string>
+    <string name="password">密码</string>
+    <string name="forget_pwd">忘记密码</string>
+    <string name="remember_pwd">记住密码</string>
+    <string name="identityID">身份证号码</string>
+    <string name="zuoji">座机号码</string>
+    <string name="weixin">微信号</string>
+    <string name="ico_head">头像</string>
+
+
+    <string name="role_farmer">农民</string>
+    <string name="ntgm">农田规模</string>
+
+    <string name="role_fly_hand">飞手</string>
+    <string name="teamName">团队名称</string>
+    <string name="fly_hand_Qualifications">团队资质</string>
+
+    <string name="team_scale">团队规模</string>
+    <!--tip-->
+    <string name="team_tip">如果没有的无人机驾驶证，请上传与无人机的合照</string>
+
 </resources>
