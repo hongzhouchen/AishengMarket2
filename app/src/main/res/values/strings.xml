@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AishengMarket</string>
+    <string name="app_name">爱昇无人机</string>
 
     <!-- login  register-->
     <!--common-->
@@ -19,13 +19,18 @@
 
     <string name="role_farmer">农民</string>
     <string name="ntgm">农田规模</string>
-
     <string name="role_fly_hand">飞手</string>
     <string name="teamName">团队名称</string>
     <string name="fly_hand_Qualifications">团队资质</string>
-
     <string name="team_scale">团队规模</string>
     <!--tip-->
     <string name="team_tip">如果没有的无人机驾驶证，请上传与无人机的合照</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
+
+    <!--homeActivity-->
+    <string name="home">首页</string>
+    <string name="dingdan">订单</string>
+    <string name="me">我</string>
 </resources>

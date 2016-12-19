@@ -20,8 +20,15 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    //版本号使用 + 可以自动引用最新版
+    //版本号使用 + 可以自动引用最新版
+    //版本号使用 + 可以自动引用最新版
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support:design:23.4.0'
+    compile 'com.lzy.net:okgo:+'
+    compile 'com.lzy.net:okrx:+'
+    compile 'com.lzy.net:okserver:+'
+    compile 'com.google.android.gms:play-services-appindexing:9.8.0'
+    compile 'com.android.support:support-v4:23.4.0'
     testCompile 'junit:junit:4.12'
-    compile 'com.android.support:appcompat-v7:23.1.1'
-    compile 'com.android.support:design:23.1.1'
 }
